@@ -1,0 +1,20 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+.idea
+out
+broadcast
+**.DS_Store
+
+lib/forge-std
+lib/openzeppelin-contracts
+lib/openzeppelin-contracts-upgradeable
+
+deployment/*
